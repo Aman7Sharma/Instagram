@@ -1,0 +1,43 @@
+.rside{
+    height: 100vh;
+    margin-left: 73%;
+    text-align: left;
+    width: 27%;
+    position: fixed;
+    background-color: white;
+}
+.stat1{
+    margin: 20px ;
+    float: left;
+    height: 60px;
+    width: 60px;
+    background-color: #f7f7f7;
+    border-radius: 50%;
+    /* border: 2px solid red; */
+}
+.nm1{
+    margin-top: 20px;
+}
+.suggest{
+    padding: 20px;
+}
+#acc{
+    width: 75%;
+}
+#sg{
+    width: 80%;
+}
+#follow{
+    float: right;
+    color: rgb(49, 197, 255);
+}
+.ppp1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+#follow1{
+    margin-left: 70px;
+    float: right;
+    color: rgb(49, 197, 255);
+}
